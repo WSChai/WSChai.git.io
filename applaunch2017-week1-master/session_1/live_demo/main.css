@@ -1,0 +1,29 @@
+body{
+	background-color: ;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Georgia";
+}
+
+p{
+	font-family: "Arial";
+}
+
+a{
+	text-decoration: none;
+	color:red;
+}
+.container{
+	background-color: grey;
+
+	padding-top: 24px;
+	padding-left: 24px;
+	padding-bottom: 24px;
+	text-align: center;
+	margin: 36px;
+}
+/*#center-text {
+	text-align: center;
+	background-color: grey;
+}*/
